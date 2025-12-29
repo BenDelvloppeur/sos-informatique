@@ -1,6 +1,6 @@
 # SOS Service Informatique - Site Web
 
-Site web vitrine pour SOS Service Informatique (Avranches), développé avec Next.js 14, TypeScript et Tailwind CSS.
+Site web (démo) vitrine pour SOS Service Informatique (Avranches), développé avec Next.js 14, TypeScript et Tailwind CSS.
 
 ## 🚀 Démarrage rapide
 
